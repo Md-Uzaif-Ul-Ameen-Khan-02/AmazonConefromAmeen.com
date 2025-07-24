@@ -1,2 +1,2 @@
-# AmazonConefromAmeen.com
+# AmazonClonefromAmeen.com
 Amazon Clone for Amazon.com
